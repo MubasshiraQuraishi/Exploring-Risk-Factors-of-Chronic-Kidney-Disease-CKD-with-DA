@@ -1,1 +1,1 @@
-# Exploring-Risk-Factors-of-Chronic-Kidney-Disease-CKD-with-DA
+Explored CKD risk factors using data analytics: analyzed blood glucose and hemoglobin levels, uncovered correlations between key biomarkers, and developed a predictive model with Random Forest classification.
